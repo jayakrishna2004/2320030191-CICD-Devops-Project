@@ -1,0 +1,9 @@
+replicaCount: 1
+image:
+  repository: youruser/cloud-portfolio
+  tag: local
+service:
+  type: NodePort
+  port: 80
+ingress:
+  enabled: false
