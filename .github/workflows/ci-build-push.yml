@@ -32,6 +32,9 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: |
-            ${{ secrets.DOCKERHUB_USERNAME }}/cloud-portfolio:latest
-            ${{ secrets.DOCKERHUB_USERNAME }}/cloud-portfolio:${{ github.sha }}
+         tags: |
+  	    jayakrishna9/cloud-portfolio:latest
+  	    jayakrishna9/cloud-portfolio:${{ github.sha }}
+
+  	
+
