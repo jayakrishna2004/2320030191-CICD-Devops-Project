@@ -88,7 +88,7 @@ export default function App() {
         </h2>
         <ul>
           <li>AWS Certified Cloud Practitioner</li>
-          <li>Oracle Cloud Infrastructure 2024 Generative AI Certified Professional</li>
+          <li>Oracle Cloud Infrastructure2024 Generative AI Certified Professional</li>
           <li>Oracle Cloud Infrastructure 2025 Certified Architect Associate</li>
           <li>Spring MVC for Developers — Best Practices</li>
           <li>Java Database Connectivity (JDBC) Introduction</li>
