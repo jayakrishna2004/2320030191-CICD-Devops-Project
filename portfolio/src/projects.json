@@ -1,0 +1,23 @@
+[
+  {
+    "id": "cloud-portfolio",
+    "title": "Cloud-Native Portfolio",
+    "description": "A React web app containerized with Docker and deployed via CI/CD using GitHub Actions.",
+    "link": "https://hub.docker.com/repository/docker/jayakrishna9/cloud-portfolio",
+    "tags": ["React", "Docker", "CI/CD"]
+  },
+  {
+    "id": "docker-automation",
+    "title": "Docker Automation",
+    "description": "Automated build and push of Docker images to Docker Hub through GitHub Actions workflow.",
+    "link": "",
+    "tags": ["Docker", "GitHub Actions"]
+  },
+  {
+    "id": "k8s-deployment",
+    "title": "Kubernetes Deployment",
+    "description": "Kubernetes manifests for Deployment, Service and optional Ingress for automated rollout.",
+    "link": "",
+    "tags": ["Kubernetes", "Helm", "YAML"]
+  }
+]
